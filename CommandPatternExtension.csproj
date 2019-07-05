@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Franck Gaspoz</Authors>
+    <Company>http://franckgaspoz.fr/en</Company>
+    <Product>Command Pattern Extension</Product>
+    <Description>.NET Standard 2.0 Command pattern (GOF) implementation extension for C# (CSharp) .NET Framework. MIT Licence free</Description>
+    <Copyright>MIT Licence (c) Franck Gaspoz</Copyright>
+    <PackageLicenseUrl>https://github.com/franck-gaspoz/</PackageLicenseUrl>
+    <PackageIconUrl>https://github.com/franck-gaspoz/</PackageIconUrl>
+    <RepositoryUrl>https://github.com/franck-gaspoz/</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/franck-gaspoz/</PackageProjectUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>Command pattern api ICommand C# CSharp .NET Standard 2.0 .NET Framework</PackageTags>
+    <PackageReleaseNotes>.NET Standard 2.0 Command pattern (GOF) implementation extension for C# (CSharp) .NET Framework. MIT Licence free
+Command pattern api ICommand C# CSharp .NET Standard 2.0 .NET Framework</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModelExtensions\ModelExtensions.csproj" />
+  </ItemGroup>
+
+</Project>

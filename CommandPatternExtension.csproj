@@ -7,10 +7,10 @@
     <Product>Command Pattern Extension</Product>
     <Description>.NET Standard 2.0 Command pattern (GOF) implementation extension for C# (CSharp) .NET Framework. MIT Licence free</Description>
     <Copyright>MIT Licence (c) Franck Gaspoz</Copyright>
-    <PackageLicenseUrl>https://github.com/franck-gaspoz/</PackageLicenseUrl>
-    <PackageIconUrl>https://github.com/franck-gaspoz/</PackageIconUrl>
-    <RepositoryUrl>https://github.com/franck-gaspoz/</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/franck-gaspoz/</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/franck-gaspoz/CommandPatternExtension/master/LICENSE</PackageLicenseUrl>
+    <PackageIconUrl></PackageIconUrl>
+    <RepositoryUrl>https://github.com/franck-gaspoz/CommandPatternExtension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/franck-gaspoz/CommandPatternExtension</PackageProjectUrl>
     <RepositoryType>GIT</RepositoryType>
     <PackageTags>Command pattern api ICommand C# CSharp .NET Standard 2.0 .NET Framework</PackageTags>
     <PackageReleaseNotes>.NET Standard 2.0 Command pattern (GOF) implementation extension for C# (CSharp) .NET Framework. MIT Licence free
